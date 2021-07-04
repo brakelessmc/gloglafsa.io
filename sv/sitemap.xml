@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.xn--glglafsa-o4a.se/</loc>
+    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.xn--glglafsa-o4a.se/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://www.xn--glglafsa-o4a.se/"
+                />
+  </url><url>
+    <loc>https://www.xn--glglafsa-o4a.se/post/hello/</loc>
+    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xn--glglafsa-o4a.se/om/</loc>
+    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xn--glglafsa-o4a.se/post/</loc>
+    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xn--glglafsa-o4a.se/recept/</loc>
+    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.xn--glglafsa-o4a.se/arkiv/</loc>
+  </url><url>
     <loc>https://www.xn--glglafsa-o4a.se/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +39,6 @@
                 rel="alternate"
                 hreflang="sv"
                 href="https://www.xn--glglafsa-o4a.se/categories/"
-                />
-  </url><url>
-    <loc>https://www.xn--glglafsa-o4a.se/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.xn--glglafsa-o4a.se/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://www.xn--glglafsa-o4a.se/"
                 />
   </url><url>
     <loc>https://www.xn--glglafsa-o4a.se/tags/</loc>
