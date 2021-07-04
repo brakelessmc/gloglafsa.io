@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://brakelessmc.github.io/gloglafsa.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://brakelessmc.github.io/gloglafsa.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/categories/"
+                href="https://brakelessmc.github.io/gloglafsa.io/categories/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://brakelessmc.github.io/gloglafsa.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://brakelessmc.github.io/gloglafsa.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/"
+                href="https://brakelessmc.github.io/gloglafsa.io/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://brakelessmc.github.io/gloglafsa.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://brakelessmc.github.io/gloglafsa.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/tags/"
+                href="https://brakelessmc.github.io/gloglafsa.io/tags/"
                 />
   </url>
 </urlset>
