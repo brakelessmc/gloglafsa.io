@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xn--glglafsa-o4a.se/en/categories/</loc>
+    <loc>https://www.xn--glglafsa-o4a.se/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://xn--glglafsa-o4a.se/categories/"
+                href="https://www.xn--glglafsa-o4a.se/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xn--glglafsa-o4a.se/en/categories/"
+                href="https://www.xn--glglafsa-o4a.se/en/categories/"
                 />
   </url><url>
-    <loc>https://xn--glglafsa-o4a.se/en/</loc>
+    <loc>https://www.xn--glglafsa-o4a.se/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://xn--glglafsa-o4a.se/"
+                href="https://www.xn--glglafsa-o4a.se/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xn--glglafsa-o4a.se/en/"
+                href="https://www.xn--glglafsa-o4a.se/en/"
                 />
   </url><url>
-    <loc>https://xn--glglafsa-o4a.se/en/tags/</loc>
+    <loc>https://www.xn--glglafsa-o4a.se/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://xn--glglafsa-o4a.se/tags/"
+                href="https://www.xn--glglafsa-o4a.se/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xn--glglafsa-o4a.se/en/tags/"
+                href="https://www.xn--glglafsa-o4a.se/en/tags/"
                 />
   </url>
 </urlset>
